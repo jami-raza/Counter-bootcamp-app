@@ -1,0 +1,65 @@
+.box {
+    height: 400px;
+    width: 1000px;
+    box-shadow: tomato;
+    text-align: center;
+    padding-top: 100px;
+    border: 15px solid rgb(11, 177, 206);
+    padding: 50px;
+    margin: 20px;
+
+
+}
+.daylight {
+    background-color:rgb(252, 209, 19);
+    
+}
+.Night {
+    background-color: rgb(158, 154, 154);
+    
+}
+.button {
+    margin:left;
+    background-color: #4CAF50; /* Green */
+    border-radius:10px ;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration:blanchedalmond;
+    display: inline-flex;
+    font-size: 16px;
+    text-decoration-style: solid;
+    -webkit-text-size-adjust: 5%;
+  }
+.button1 {
+    margin:left;
+    background-color:lightcoral; /* Green */
+    border-radius:10px;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration:blanchedalmond;
+    display: inline-flex;
+    font-size: 16px;
+    text-decoration-style: solid;
+}
+.button2{
+    margin:left;
+    background-color:rgb(59, 46, 175); /* Green */
+    border-radius:10px;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration:blanchedalmond;
+    display: inline-flex;
+    font-size: 16px;
+    text-decoration-style: solid;
+
+}
+  .Tea {
+    text-align: left;
+  }
+  .coffee {
+    text-align:right ;
+  }
+  
